@@ -53,8 +53,12 @@ module.exports = {
   links: [
     {
       name: 'GitHub',
-      link: 'https://github.com/spencerwooo/onedrive-vercel-index',
+      link: 'https://github.com/ismeoh',
     },
+    {
+      name: 'Blog',
+      link: 'https://ismeoh.com/blog',
+    }
   ],
 
   // This is a day.js-style datetime format string to format datetimes in the app. Ref to
